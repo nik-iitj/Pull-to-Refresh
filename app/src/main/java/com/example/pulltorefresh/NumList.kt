@@ -6,5 +6,6 @@ class NumList {
 
     constructor(Num: Int?) {
         this.Num = Num
+
     }
 }
